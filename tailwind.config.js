@@ -3,6 +3,9 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      animation: {
+        "spin-slow": "spin 5s linear infinite",
+      },
       colors: {
         dark: "#1b1b1b",
         light: "#f5f5f5",
