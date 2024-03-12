@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       animation: {
-        "spin-slow": "spin 5s linear infinite",
+        "spin-slow": "spin 8s linear infinite",
       },
       colors: {
         dark: "#1b1b1b",
