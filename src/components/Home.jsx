@@ -28,8 +28,8 @@ const Home = () => {
             />
             <p className="py-4 text-base font-medium">
               As a skilled full-stack developer, I am dedicated to turning ideas
-              into innovative web applications. Explore my latest projects and
-              articles, showcasing my expertise in React.js and web development.
+              into innovative web applications. Explore my latest projects
+              showcasing my expertise in React.js and web development.
             </p>
             <div className="pt-2 items-center self-start flex gap-6">
               <Link
