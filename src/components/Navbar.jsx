@@ -9,7 +9,7 @@ const Navbar = () => {
 
   const Customlink = ({ to, title, className = "" }) => {
     return (
-      <Link to={to} className={`${className} relative group font-normal`}>
+      <Link to={to} className={`${className} relative group`}>
         {title}
         <span
           className={`h-[1px] bg-dark inline-block absolute left-0 top-6 group-hover:w-full transition-[width] ease duration-300 ${
